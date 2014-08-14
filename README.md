@@ -8,6 +8,8 @@ Participants
 
 * emolch (Sebastian)
 * karamzad (Nasim)
+* Zaccarelli (Riccardo)
+* Al-Halbouni (Djamil)
 
 Task 1: get started
 -------------------
