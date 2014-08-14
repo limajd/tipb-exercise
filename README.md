@@ -7,6 +7,7 @@ Participants
 ------------
 
 * emolch (Sebastian)
+* karamzad (Nasim)
 
 Task 1: get started
 -------------------
