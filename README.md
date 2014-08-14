@@ -29,7 +29,7 @@ Task 2: create and save a Pyrocko trace
 * read just enough to understand the code
 * try to save this trace in Mini-SEED format with `pyrocko.io.save`
 * why is this not possible? how solve?
-* save the trace in text format (using the `format='text'` option of ``pyrocko.io.save``
+* save the trace in text format (using the `format='text'` option of `pyrocko.io.save`)
 * what are the problems with this text format?
 * discuss what would make up a good trace file format
 
