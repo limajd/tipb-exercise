@@ -32,6 +32,17 @@ Task 2: create and save a Pyrocko trace
 * save the trace in text format (using the `format='text'` option of `pyrocko.io.save`)
 * what are the problems with this text format?
 * discuss what would make up a good trace file format
+* things to consider: simplicity, platform independence, speed, size, meta information, data corruption,
+  maximum sampling rate, possible time range / span, jump to given time, streamability, meta data, data types, precision
 
+Task 3: implement a better table-style text file format to store traces
+-----------------------------------------------------------------------
 
-
+* read documentation on `numpy.loadtxt` and `numpy.savetxt`
+* commit often while you implement
+* start with an empty Python module e.g. `yourname_text_trace_io.py`
+* implement a write function `write(trace, filename)`
+* implement a read function `read(filename)`
+* enhance the read function to allow to only read metadata `read(filename, getdata=False)`
+* write a test function which checks if your read and write functions work properly
+* upload your work to github, send a pull request
