@@ -7,9 +7,9 @@ Participants
 ------------
 
 * emolch (Sebastian)
-* karamzad (Nasim)
 * Zaccarelli (Riccardo)
 * Al-Halbouni (Djamil)
+* Zakharova (Olya)
 
 Task 1: get started
 -------------------
