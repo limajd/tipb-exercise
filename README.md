@@ -7,6 +7,7 @@ Participants
 ------------
 
 * emolch (Sebastian)
+* karamzad (Nasim)
 * Zaccarelli (Riccardo)
 * Al-Halbouni (Djamil)
 * FelixMSchneider (Felix und  Jana) 
