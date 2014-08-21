@@ -10,6 +10,7 @@ Participants
 * karamzad (Nasim)
 * Zaccarelli (Riccardo)
 * Al-Halbouni (Djamil)
+* FelixMSchneider (Felix und  Jana) 
 
 Task 1: get started
 -------------------
