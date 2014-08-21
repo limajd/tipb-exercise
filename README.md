@@ -10,6 +10,7 @@ Participants
 * karamzad (Nasim)
 * Zaccarelli (Riccardo)
 * Al-Halbouni (Djamil)
+* nnima (Nima)
 
 Task 1: get started
 -------------------
