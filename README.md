@@ -7,11 +7,11 @@ Participants
 ------------
 
 * emolch (Sebastian)
-* karamzad (Nasim)
 * Zaccarelli (Riccardo)
 * Al-Halbouni (Djamil)
 * FelixMSchneider (Felix und  Jana) 
 * nnima (Nima)
+* Zakharova (Olya)
 
 Task 1: get started
 -------------------
