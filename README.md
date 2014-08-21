@@ -11,6 +11,7 @@ Participants
 * Zaccarelli (Riccardo)
 * Al-Halbouni (Djamil)
 * FelixMSchneider (Felix und  Jana) 
+* nnima (Nima)
 
 Task 1: get started
 -------------------
