@@ -7,7 +7,7 @@ Participants
 ------------
 
 * emolch (Sebastian)
-
+* nnima (Nima)
 Task 1: get started
 -------------------
 
